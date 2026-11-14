@@ -1,0 +1,44 @@
+direction,option_symbol,pattern,level,entry_spot,sl_spot,entry_time,entry_price,exit_time,exit_price,exit_reason,pnl_pts,pnl_rs,result,cum_pnl_rs
+BUY,NSE:NIFTY26N1723700CE,green_line_ce,23791.25,23795.4,23745.55,2026-11-04 11:07:00+05:30,310.19,2026-11-04 11:21:00+05:30,348.8,target,38.6,2509.26,profit,2509.26
+BUY,NSE:NIFTY26N1724300CE,green_line_ce,24391.95,24406.8,24346.05,2026-11-05 11:32:00+05:30,306.47,2026-11-05 13:00:00+05:30,323.7,target,17.22,1119.59,profit,3628.8500000000004
+BUY,NSE:NIFTY26N1724500CE,green_line_ce,24538.2,24558.3,24489.15,2026-11-06 09:41:00+05:30,292.71,2026-11-06 09:46:00+05:30,319.59,target,26.89,1747.76,profit,5376.610000000001
+SELL,NSE:NIFTY26N1725100PE,first_candle_full_body,24993.5,24993.3,25124.05,2026-11-09 09:16:00+05:30,357.38,2026-11-09 09:18:00+05:30,377.96,target,20.58,1337.58,profit,6714.1900000000005
+BUY,NSE:NIFTY26N1725300CE,green_line_ce,25337.8,25351.9,25279.9,2026-11-11 09:33:00+05:30,279.99,2026-11-11 09:37:00+05:30,310.12,target,30.13,1958.2,profit,8672.390000000001
+BUY,NSE:NIFTY26N1725100CE,green_line_ce,25234.45,25245.55,25178.6,2026-11-12 12:29:00+05:30,269.44,2026-11-12 15:20:00+05:30,286.11,eod_exit,16.67,1083.66,profit,9756.050000000001
+SELL,NSE:NIFTY26N1725200PE,red_line_pe,25117.6,25113.2,25171.7,2026-11-13 12:09:00+05:30,194.47,2026-11-13 14:20:00+05:30,210.86,target,16.39,1065.32,profit,10821.37
+
+METRICS,VALUE
+Total Trades,7
+Wins,7
+Losses,0
+Win Rate (%),100.0
+Break-even Win Rate (%),59.2
+Net PnL (Rs),10821.37
+Profit Factor,inf
+Max Drawdown (Rs),0.00
+TF Rule,1min
+First Candle,09:15
+Line Proximity %,0.1
+First-candle Full-body Entry,True (>= 0.85)
+Body Ratio Max,0.8
+Healthy Body Frac,0.65
+Require Healthy C1,False
+Require Healthy C3,False
+EMA Filter,False
+BUY Enabled,True
+SELL Enabled,True
+Risk Mode,INDEX_POINTS
+SL,C1 extreme -/+ 40 (avg risk 73 NIFTY pts)
+TP,50 NIFTY pts
+Risk Reward,1:0.69
+Exit Slippage %,0.5
+Alternate Direction,True
+Signals Generated,27
+Skipped EMA,0
+Skipped Dir-Alt,3
+Skipped Window,0
+Skipped Holding,3
+Skipped No Option Data,14
+Entry Slippage %,0.5
+Lot Size,65
+Hist Days,30

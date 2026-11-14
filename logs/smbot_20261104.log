@@ -1,0 +1,36 @@
+2026-11-04 00:01:47,210 - SMBot_V2 - INFO - __init__:281 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA300 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False
+2026-11-04 06:35:18,956 - SMBot_V2 - INFO - <module>:31 - APP_ID_HASH: 319ed28307d5c1476aa7d9ec034666a2727eadef10f9b7453f46a9dd0ca1f64c
+2026-11-04 06:35:19,125 - SMBot_V2 - INFO - GenerateTOTPToken:179 - send_login_otp success
+2026-11-04 06:35:19,125 - SMBot_V2 - INFO - GenerateTOTPToken:186 - Generated TOTP: 746479
+2026-11-04 06:35:19,193 - SMBot_V2 - INFO - GenerateTOTPToken:195 - verify_totp success
+2026-11-04 06:35:19,478 - SMBot_V2 - INFO - GenerateTOTPToken:203 - verify_pin success
+2026-11-04 06:35:19,578 - SMBot_V2 - INFO - GenerateTOTPToken:216 - token success
+2026-11-04 06:35:19,737 - SMBot_V2 - INFO - GenerateTOTPToken:227 - validate_authcode success
+2026-11-04 06:35:19,739 - SMBot_V2 - INFO - GenerateTOTPToken:234 - Final access_token: 2NWM6G5K7Y-200:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiZDoxIiwiZDoyIiwieDowIiwieDoxIiwieDoyIl0sImF0X2hhc2giOiJnQUFBQUFCcTZvVFFNRE9NeEFqdXpjNUxRS2g2YXlUdTJUdXFiZFgySW9UQTBGVnFJVmhlT0tweWRWbXhqOGZfYVR3bEttckk1ZmxQR0hqdjRyRzVnQ3F3TF8tZzRRVUtSbmdGTkNwdTBpcG00WEh0U2taeVhDTT0iLCJkaXNwbGF5X25hbWUiOiIiLCJvbXMiOiJLMSIsImhzbV9rZXkiOiI2ZDRlMWFlYTc4NWNiYWE3MDEzYzAzMTc4ZDE5MGU1YWM4ZDMzMWM5YjQ0ZWZkMzEzMDFmNTEzNSIsImlzRGRwaUVuYWJsZWQiOiJOIiwiaXNNdGZFbmFibGVkIjoiTiIsImZ5X2lkIjoiRkFEMTE5MTAiLCJhcHBUeXBlIjoyMDAsImV4cCI6MTc5MzgzODYwMCwiaWF0IjoxNzkzNzU0MzIwLCJpc3MiOiJhcGkuZnllcnMuaW4iLCJuYmYiOjE3OTM3NTQzMjAsInN1YiI6ImFjY2Vzc190b2tlbiJ9.5fSnYb0dvrT-EBaiJS4Emkl4LLykG9G16D9b5ASu8t8
+2026-11-04 06:35:19,739 - SMBot_V2 - INFO - GenerateTOTPToken:238 - AppId saved -> fyers_appid.txt
+2026-11-04 06:35:19,740 - SMBot_V2 - INFO - GenerateTOTPToken:242 - Token saved -> fyers_token.txt
+2026-11-04 06:35:19,740 - SMBot_V2 - INFO - GenerateTOTPToken:244 - Generated on: 04-11-2026 06:35:18
+2026-11-04 06:35:26,494 - SMBot_V2 - INFO - __init__:282 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA200 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False
+2026-11-04 06:36:27,804 - SMBot_V2 - INFO - __init__:282 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA200 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False
+2026-11-04 06:36:43,534 - SMBot_V2 - INFO - <module>:31 - APP_ID_HASH: 319ed28307d5c1476aa7d9ec034666a2727eadef10f9b7453f46a9dd0ca1f64c
+2026-11-04 06:36:43,677 - SMBot_V2 - INFO - GenerateTOTPToken:179 - send_login_otp success
+2026-11-04 06:36:43,677 - SMBot_V2 - INFO - GenerateTOTPToken:186 - Generated TOTP: 793214
+2026-11-04 06:36:43,740 - SMBot_V2 - INFO - GenerateTOTPToken:195 - verify_totp success
+2026-11-04 06:36:44,039 - SMBot_V2 - INFO - GenerateTOTPToken:203 - verify_pin success
+2026-11-04 06:36:44,111 - SMBot_V2 - INFO - GenerateTOTPToken:216 - token success
+2026-11-04 06:36:44,283 - SMBot_V2 - INFO - GenerateTOTPToken:227 - validate_authcode success
+2026-11-04 06:36:44,283 - SMBot_V2 - INFO - GenerateTOTPToken:234 - Final access_token: 2NWM6G5K7Y-200:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiZDoxIiwiZDoyIiwieDowIiwieDoxIiwieDoyIl0sImF0X2hhc2giOiJnQUFBQUFCcTZvVWtzMEp0R2k2Ull4TXJ6SjlvUVRvaDhhVWg2TkxxMXJFdVFpamhWMmJGTmpCTUVLMWM1cW4yX3pvMDNGd3AyZHJMam9mcEZQdmt5dHhUTnNLTnFMcHg1Rlh1cURXa1hBWDI1WnBxOVhnZl93dz0iLCJkaXNwbGF5X25hbWUiOiIiLCJvbXMiOiJLMSIsImhzbV9rZXkiOiI3YTdjNDJhNzQ3YTQwOWI3OTJkYTg1MmQzMTc4ZDE4MDYwZjVhMjk4ZjM2Y2FmMTAxZDRiZWMxNiIsImlzRGRwaUVuYWJsZWQiOiJOIiwiaXNNdGZFbmFibGVkIjoiTiIsImZ5X2lkIjoiRkFEMTE5MTAiLCJhcHBUeXBlIjoyMDAsImV4cCI6MTc5MzgzODYwMCwiaWF0IjoxNzkzNzU0NDA0LCJpc3MiOiJhcGkuZnllcnMuaW4iLCJuYmYiOjE3OTM3NTQ0MDQsInN1YiI6ImFjY2Vzc190b2tlbiJ9.ZlVir7-dz2yYlr5yVNyY5tqYgJm9m_5yNeVoC8_HVkw
+2026-11-04 06:36:44,283 - SMBot_V2 - INFO - GenerateTOTPToken:238 - AppId saved -> fyers_appid.txt
+2026-11-04 06:36:44,284 - SMBot_V2 - INFO - GenerateTOTPToken:242 - Token saved -> fyers_token.txt
+2026-11-04 06:36:44,286 - SMBot_V2 - INFO - GenerateTOTPToken:244 - Generated on: 04-11-2026 06:36:43
+2026-11-04 06:36:55,854 - SMBot_V2 - INFO - __init__:282 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA200 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False
+2026-11-04 06:36:55,910 - SMBot_V2 - INFO - _init_fyers:1661 - [ENG] connected SHARAD ASHOK MISAL
+2026-11-04 06:36:55,910 - SMBot_V2 - INFO - __init__:1633 - [ENG] ready. interval=20s
+2026-11-04 06:36:55,910 - SMBot_V2 - WARNING - __init__:1641 - *** LIVE MODE — INTRADAY market entry + broker-side SL/TP + DELETE /positions exit ***
+2026-11-04 06:36:55,926 - SMBot_V2 - INFO - run:1998 - [ENG] starting Sequential Candle Reversal poll loop
+2026-11-04 06:36:55,927 - SMBot_V2 - INFO - _poll:1871 - [ENG] New day 2026-11-04 — state reset.
+2026-11-04 06:37:03,460 - SMBot_V2 - INFO - run:2018 - [ENG] interrupted
+2026-11-04 06:37:03,461 - SMBot_V2 - INFO - _export:2046 - [ENG] no trades to export
+2026-11-04 06:37:03,462 - SMBot_V2 - INFO - _shutdown:2038 - [ENG] shutdown complete
+2026-11-04 06:37:04,018 - SMBot_V2 - INFO - __init__:282 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA200 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False
+2026-11-04 06:37:19,609 - SMBot_V2 - INFO - __init__:282 - Weekly expiry code 26N10 | C1/C2/C3 pattern: declining/rising closes OR body<1.2xC2, 1min bars | EMA=EMA200 | swing=lookback=20 prox=0.15% | SL=-10.0% TP=+10.0% | live_exit=DELETE /positions + broker SL/TP | direction-alternating (resets daily) | DRY_RUN=False

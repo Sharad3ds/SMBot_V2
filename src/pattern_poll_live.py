@@ -226,9 +226,9 @@ class Config:
 
     # 200 EMA direction filter: SELL/PE only below EMA200; BUY/CE only above EMA200.
     USE_EMA_FILTER = True
-    EMA_PERIOD = 300
+    EMA_PERIOD = 200
     EMA_LOOKBACK_DAYS = 10
-    
+
     
     # â”€â”€ swing zone (support/resistance) entry filter â”€â”€
     USE_SWING_FILTER = True
